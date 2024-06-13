@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>14_096_6_0069.bmp</filename>
+	<path>D:\LabelImg\data\14_096_6_0069.bmp</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stenosis</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>218</xmin>
+			<ymin>202</ymin>
+			<xmax>322</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
